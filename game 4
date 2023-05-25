@@ -13,10 +13,10 @@
                 alert('You must be in a Tower Defense game!');
             } else {
                 reactHandler().stateNode.towers.forEach(tower => {
-                    tower.damage = 1e308;
-                    tower.range = 1e308;
+                    tower.damage = 1e3089999999999999999999999;
+                    tower.range = 1e30899999999999999999999999999999;
                     tower.level = 3;
-                    tower.blastRadius = 1e308
+                    tower.blastRadius = 1e3089999999999
                     tower.fullCd = 0;
                 });
 
