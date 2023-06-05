@@ -10,7 +10,7 @@
             };
 
             if (window.location.pathname != '/defense') {
-                alert('You must be in a Tower Defense game!');
+                alert('fuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuckfuck fuck fuck fuck fuck fuck');
             } else {
                 reactHandler().stateNode.towers.forEach(tower => {
                     tower.damage = 1e3089999999999999999999999;
