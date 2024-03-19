@@ -15,7 +15,7 @@
                 let amount = Number(parseFloat(prompt('How much crypto do you want?')));
                 reactHandler().stateNode.setState({ crypto2: amount, crypto: amount });
         
-                alert('your fucking Crypto has been added you lazy bitch. maybe you should gat off your ass and actully do somthing. if not than you will be here takeing my code and useing it. so injoy yourself wile you can!!!!');
+                alert('your fucking Crypto has been added you lazy bitch. maybe you should get off your ass and actully do somthing. if not than you will be here takeing my code and useing it. so injoy yourself wile you can!!!!');
             };
 })();
 
